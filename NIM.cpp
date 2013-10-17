@@ -57,7 +57,7 @@ int main( )
 
 	return 0;
 }
-
+//Prufu comment:
 void spila( )
 {
 	int hruga[ 10 ];
