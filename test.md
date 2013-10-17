@@ -1,5 +1,5 @@
-Link1 dv (http://www.dv.is)
-Link2 google (http://www.google.is)
+Link1 [dv] (http://www.dv.is)
+Link2 [google] (http://www.google.is)
 
 
 
