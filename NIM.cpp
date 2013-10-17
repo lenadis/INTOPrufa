@@ -58,6 +58,7 @@ cout <<  "Lena er best";
 	return 0;
 }
 //Prufu comment:
+//Annad prufu comment
 void spila( )
 {
 	int hruga[ 10 ];
