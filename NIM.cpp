@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+cout <<  "Lena er best";
 	return 0;
 }
 //Prufu comment:
